@@ -25,7 +25,7 @@
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/signhope.git
+  https://github.com/huzaifaadnan59/SignHope.git
 ```
 2. Open the project in Android Studio.
 
